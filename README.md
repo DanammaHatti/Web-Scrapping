@@ -8,3 +8,15 @@ python -m venv .venv
 pip install -r requirements.txt
 mkdir data
 python -m src.olx_scraper.cli --url "https://www.olx.in/items/q-bike" --out data/listings.csv --limit 5
+
+---
+
+## 9️⃣ Want me to help further?
+
+I can:
+- Review your **GitHub repo** and fix issues
+- Add **Selenium / Playwright** for OLX blocking
+- Improve **CSV schema** (price as number, year, km)
+- Add **pagination**
+- Make it installable via `pip install -e .`
+
