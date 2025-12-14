@@ -11,7 +11,7 @@ python -m src.olx_scraper.cli --url "https://www.olx.in/items/q-bike" --out data
 
 ---
 
-## 9️⃣ Want me to help further?
+# Want me to help further?
 
 I can:
 - Review your **GitHub repo** and fix issues
